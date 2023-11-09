@@ -2,9 +2,9 @@ const express = require('express')
 
 const app = express()
 
-app.get('/', (req, res) =>{
+app.get('/', (req, res) => {
     
-    res.send('Olá mundo cruel!')
+    res.send('Olá mundo. Ir para Sobre')
 })
 
 app.listen(3000, () => {
@@ -15,4 +15,3 @@ app.listen(3000, () => {
 app.get('/sobre', (req, res) => {
     res.send("Um simples tutorial de NodeJS")
   })
-  
