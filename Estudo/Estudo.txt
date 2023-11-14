@@ -1,0 +1,12 @@
+Na disciplina de Programação Web no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), geralmente são abordados os fundamentos e técnicas essenciais para desenvolvimento de aplicações web. Os tópicos costumam incluir:
+
+1. **HTML (Hypertext Markup Language):** Estruturação e marcação do conteúdo da página web.
+2. **CSS (Cascading Style Sheets):** Estilização e formatação visual das páginas, permitindo a criação de layouts e design atraente.
+3. **JavaScript:** Linguagem de programação fundamental para interatividade e dinamismo nas páginas web.
+4. **Frameworks e Bibliotecas Front-end:** Introdução ao uso de bibliotecas e frameworks como React, Angular ou Vue.js para facilitar o desenvolvimento de interfaces web interativas e responsivas.
+5. **Backend e Servidores Web:** Conceitos básicos sobre o lado do servidor, incluindo noções de arquitetura cliente-servidor, protocolos web e manipulação de requisições.
+6. **Bancos de Dados e Integração:** Noções sobre como as aplicações web se integram com bancos de dados para armazenamento e recuperação de informações.
+
+Além disso, os estudantes geralmente aprendem sobre boas práticas de desenvolvimento web, acessibilidade, SEO (Search Engine Optimization) e segurança na web.
+
+Esses são alguns dos tópicos que podem ser cobertos em um curso de Programação Web no IFCE ou em instituições semelhantes, mas a estrutura exata do curso pode variar de acordo com o programa acadêmico e a abordagem do professor.
