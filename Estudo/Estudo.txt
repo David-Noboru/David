@@ -10,3 +10,5 @@ Na disciplina de Programação Web no Instituto Federal de Educação, Ciência 
 Além disso, os estudantes geralmente aprendem sobre boas práticas de desenvolvimento web, acessibilidade, SEO (Search Engine Optimization) e segurança na web.
 
 Esses são alguns dos tópicos que podem ser cobertos em um curso de Programação Web no IFCE ou em instituições semelhantes, mas a estrutura exata do curso pode variar de acordo com o programa acadêmico e a abordagem do professor.
+
+oi
