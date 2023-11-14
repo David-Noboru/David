@@ -13,5 +13,5 @@ app.listen(3000, () => {
 
 
 app.get('/sobre', (req, res) => {
-    res.send("Um simples tutorial de NodeJS")
+    res.send("Um dia lindo no verão!!!")
   })
